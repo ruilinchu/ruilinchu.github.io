@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[jimi's HPC ideas]]></title>
   <link href="http://ruilinchu.github.io/atom.xml" rel="self"/>
   <link href="http://ruilinchu.github.io/"/>
-  <updated>2015-09-22T23:15:56-04:00</updated>
+  <updated>2015-09-22T23:38:15-04:00</updated>
   <id>http://ruilinchu.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[Ruilin(jimi) Chu]]></name>
+    <email><![CDATA[ruilinchu@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
